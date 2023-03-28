@@ -1,0 +1,37 @@
+.product-con {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.view-btn {
+  width: 20%;
+  background-color: aquamarine;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 16px;
+}
+
+.thumbnail {
+  width: 20%;
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}
+
+.title {
+  width: 20%;
+  margin-left: 20px;
+}
+
+.stock {
+  width: 20%;
+  text-align: center;
+}
+.price {
+  width: 20%;
+  text-align: center;
+}
